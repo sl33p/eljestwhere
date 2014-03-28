@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+destination: ./_site
+# Permalinks / was pretty
+permalink:        pretty
+
+# Setup
+title:            Eljestwhere
+tagline:          'A weblog by Nicklas de León Persson'
+description:      'Periodically at this address since 2002.'
+url:              http://eljestwhere.org
+
+author:
+  name:           'Nicklas de León Persson'
+  url:            https://twitter.com/takete
+
+paginate:         1
+
+
+
+#relative_permalinks: true
+
+
+#paginate_path: 'page:num'
+
+
+# Custom vars
+version:          1.0.1
+
+github:
+  repo:           https://github.com/poole/poole

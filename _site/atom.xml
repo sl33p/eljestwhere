@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Eljestwhere</title>
+ <link href="http://eljestwhere.org/atom.xml" rel="self"/>
+ <link href="http://eljestwhere.org/"/>
+ <updated>2014-03-28T12:33:34+00:00</updated>
+ <id>http://eljestwhere.org</id>
+ <author>
+   <name>Nicklas de León Persson</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Tattoo Time</title>
+   <link href="http://eljestwhere.org/2012/08/31/tattoo-time/"/>
+   <updated>2012-08-31T00:00:00+01:00</updated>
+   <id>http://eljestwhere.org/2012/08/31/tattoo-time</id>
+   <content type="html">&lt;p&gt;In 1995 I stopped getting tattoos. I can&amp;#39;t quite remember why anymore, I wasn&amp;#39;t even finished, there are outline on my ribcage still not filled in, and the plan, which always was a half-body suit, was abandoned.&lt;/p&gt;
+
+&lt;p&gt;I suppose I just moved on and found something else to do with my time. I always knew, however, that I&amp;#39;d continue getting tattoos after turning 40. This was a magical break-point, when working as the floor-sweeper in the tattooist I saw the evidence: People getting tattoos were either under 25, over 40, or recovering alcoholics.&lt;/p&gt;
+
+&lt;p&gt;Finding my way back into a scene that I once was very familiar with is proving difficult, however. I don&amp;#39;t have the language anymore. I don&amp;#39;t know the names of either the artists or the styles, and finding a common and credible langauge in which to communicate with the prospective craftsperson is daunting.&lt;/p&gt;
+
+&lt;p&gt;It is, in a nutshell, no different from the  client-designer relationship we – as designers – deal with every day. My conclusions so far, after having actively involved myself in talking to tattooists and conducting research for a couple of days, is:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;It shouldn&amp;#39;t be necessary for a client to  know all the terms and having all the ideas worked out already. The terminology is important for internal communication, as it affords precision and acts as a shorthand. It should not be a necessary requirement for anyone else.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ideas from the client should ideally be embryonic. Knowing what you&amp;#39;re trying to achieve is essential, it is, however, the job of the craftsperson to interpret the wishes, translate these into something aesthetic, functioning and tangible. Otherwise you&amp;#39;re just a pair of hands.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So far, I have not found who I&amp;#39;m looking for. Someone who&amp;#39;s willing to listen, and take ownership of the ideas and make these into something that is both an expression of their skills, artistry and tone of voice, and a product of the narrative the conversation and ideas borne.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Finding The Right Tools</title>
+   <link href="http://eljestwhere.org/2012/08/30/finding-the-right-tools/"/>
+   <updated>2012-08-30T00:00:00+01:00</updated>
+   <id>http://eljestwhere.org/2012/08/30/finding-the-right-tools</id>
+   <content type="html">&lt;p&gt;The flakiness, especial of the first solution I tried, an installation of Monologue running on Heroku, made me search for something with a little less friction, something that would allow me to just store some text files somewhere and getting them to automatically publish to the web. Today, I&amp;#39;m trying scriptogr.am, a hosted service which syncs with Dropbox. The nice thing about this option is that it — in theory — would allow me to concentrate on the writing aspect, rather than procrastinating in the tool-shed. And, if scriptogr.am, or even Dropbox closes shop, or falls out of fashion, I&amp;#39;ll still have a bunch of text files only computer. Currently I&amp;#39;m using Mou to edit the Markdown files, primarily as it has a nifty keyboard shortcut for publishing.&lt;/p&gt;
+
+&lt;p&gt;At the moment, this feels somewhat like just what the doctor ordered, but I can&amp;#39;t shake the feeling that I should be rolling something of my own. Let&amp;#39;s keep on writing for a few days and find out what that might be.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>In The Forest</title>
+   <link href="http://eljestwhere.org/2012/08/22/in-the-forest/"/>
+   <updated>2012-08-22T00:00:00+01:00</updated>
+   <id>http://eljestwhere.org/2012/08/22/in-the-forest</id>
+   <content type="html">&lt;p&gt;⬆1.15 KB/S ⬇9.4KB/S&lt;/p&gt;
+
+&lt;p&gt;Being faced with the slowness of an edge connection, ten times slower than the good-old dial-up modem, as happens every time we retire to the cottage in the woods, frustration first abounds. Thoughts of engineering huge home-made amplifying masts out of tin foil and coathangers, or hoisting the receiver up the flagpole which all Swedish houses come equipped with fills my mind, and I find it hard to concentrate.&lt;/p&gt;
+
+&lt;p&gt;It would feel better not using my computer knowing that my connection was fast.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Internet</title>
+   <link href="http://eljestwhere.org/2012/08/21/internet/"/>
+   <updated>2012-08-21T00:00:00+01:00</updated>
+   <id>http://eljestwhere.org/2012/08/21/internet</id>
+   <content type="html">&lt;p&gt;Ten years ago when this weblog started, one of the first things I posted was a link to this page: http://www.disturbingauctions.com/view.pl?item=51&lt;/p&gt;
+
+&lt;p&gt;Finding out that the site is still around is a great as most of the links accumulated over the years now are dead, leading to badly considered 404s, giving little idea of the original topography of the place. But that&amp;#39;s another story, and one which Jeremy Keith tells much better. But I digress—greater still is finding out that this long-standing favourite is the brainchild of none other than Panic&amp;#39;s Steven Frank. Hey, I know who that guy is!&lt;/p&gt;
+
+&lt;p&gt;I could talk about how the web was a smaller place back then, but I could also discuss how Twitter and the likes has given us the opportunity to feel like we know the people who makes our FTP clients, but I&amp;#39;m not sure that it is hitting the spot, not sure that the feeling that I had on rediscovering the drunken monkey can be explained our captured in theorising about the way we socialise and build communities online. There is something interesting, however, in the fact that 10 years ago, in a much smaller place then what we have now, I knew less about the people around me.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Write Every Day</title>
+   <link href="http://eljestwhere.org/2012/08/20/write-every-day/"/>
+   <updated>2012-08-20T00:00:00+01:00</updated>
+   <id>http://eljestwhere.org/2012/08/20/write-every-day</id>
+   <content type="html">&lt;!--  2012-08-20 --&gt;
+
+&lt;p&gt;One of the greatest achievments with the first incarnation of this site was that it was written nearly every day. Retaining this goal and keeping the determination to get something down on paper at least once every day is the only way I can see myself keeping an interest.&lt;/p&gt;
+
+&lt;p&gt;The first couple of posts are inevitably meta, creating a mission statement of sorts. After this initial period we should be back to reflections on life, not seeking sensation or excitement, but a level of consistent minuscule insights building up to something larger than the sum of its parts. It will take 10 years to mature, no doubt.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>She's Back</title>
+   <link href="http://eljestwhere.org/2012/08/19/she%27s-back/"/>
+   <updated>2012-08-19T00:00:00+01:00</updated>
+   <id>http://eljestwhere.org/2012/08/19/she's-back</id>
+   <content type="html">&lt;!--Date: 2012-08-19--&gt;
+
+&lt;p&gt;The other day I discovered that eljestwhere.org had fallen out of the hands of the spammer who registered the site after i neglected to renew it back in the day (when? a long time ago). Since I had $9.95 I re-registered it and thought that maybe I should start writing again. This is the first post. Hello world.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
