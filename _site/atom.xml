@@ -4,13 +4,22 @@
  <title>Eljestwhere</title>
  <link href="http://eljestwhere.org/atom.xml" rel="self"/>
  <link href="http://eljestwhere.org/"/>
- <updated>2014-03-28T12:33:34+00:00</updated>
+ <updated>2014-03-29T17:07:03+00:00</updated>
  <id>http://eljestwhere.org</id>
  <author>
    <name>Nicklas de León Persson</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Freaky Friday</title>
+   <link href="http://eljestwhere.org/2014/03/28/freaky-friday/"/>
+   <updated>2014-03-28T00:00:00+00:00</updated>
+   <id>http://eljestwhere.org/2014/03/28/freaky-friday</id>
+   <content type="html">&lt;p&gt;Just another test.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tattoo Time</title>
@@ -63,7 +72,7 @@
    <link href="http://eljestwhere.org/2012/08/21/internet/"/>
    <updated>2012-08-21T00:00:00+01:00</updated>
    <id>http://eljestwhere.org/2012/08/21/internet</id>
-   <content type="html">&lt;p&gt;Ten years ago when this weblog started, one of the first things I posted was a link to this page: http://www.disturbingauctions.com/view.pl?item=51&lt;/p&gt;
+   <content type="html">&lt;p&gt;Ten years ago when this weblog started, one of the first things I posted was a link to this page: &lt;a href=&quot;http://www.disturbingauctions.com/view.php?item=51&quot;&gt;http://www.disturbingauctions.com/view.php?item=51&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Finding out that the site is still around is a great as most of the links accumulated over the years now are dead, leading to badly considered 404s, giving little idea of the original topography of the place. But that&amp;#39;s another story, and one which Jeremy Keith tells much better. But I digress—greater still is finding out that this long-standing favourite is the brainchild of none other than Panic&amp;#39;s Steven Frank. Hey, I know who that guy is!&lt;/p&gt;
 
@@ -86,9 +95,9 @@
  
  <entry>
    <title>She's Back</title>
-   <link href="http://eljestwhere.org/2012/08/19/she%27s-back/"/>
+   <link href="http://eljestwhere.org/2012/08/19/shes-back/"/>
    <updated>2012-08-19T00:00:00+01:00</updated>
-   <id>http://eljestwhere.org/2012/08/19/she's-back</id>
+   <id>http://eljestwhere.org/2012/08/19/shes-back</id>
    <content type="html">&lt;!--Date: 2012-08-19--&gt;
 
 &lt;p&gt;The other day I discovered that eljestwhere.org had fallen out of the hands of the spammer who registered the site after i neglected to renew it back in the day (when? a long time ago). Since I had $9.95 I re-registered it and thought that maybe I should start writing again. This is the first post. Hello world.&lt;/p&gt;
