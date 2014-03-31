@@ -4,7 +4,7 @@
  <title>Eljestwhere</title>
  <link href="http://eljestwhere.org/atom.xml" rel="self"/>
  <link href="http://eljestwhere.org/"/>
- <updated>2014-03-29T17:07:03+00:00</updated>
+ <updated>2014-03-31T20:39:08+01:00</updated>
  <id>http://eljestwhere.org</id>
  <author>
    <name>Nicklas de León Persson</name>
@@ -17,7 +17,9 @@
    <link href="http://eljestwhere.org/2014/03/28/freaky-friday/"/>
    <updated>2014-03-28T00:00:00+00:00</updated>
    <id>http://eljestwhere.org/2014/03/28/freaky-friday</id>
-   <content type="html">&lt;p&gt;Just another test.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Transitioning yet again from one platform to another—it is almost like someone collecting typewriters or exquisite pencils instead of actually writing—I’ve now settled, for the time being on a &lt;a href=&quot;1&quot;&gt;Jekyll&lt;/a&gt; site with some &lt;a href=&quot;2a&quot;&gt;Octopress&lt;/a&gt; sprinkles (just the &lt;a href=&quot;2b&quot;&gt;rake tasks&lt;/a&gt;) and, again for the time being, with a &lt;a href=&quot;3&quot;&gt;Hyde&lt;/a&gt; theme.&lt;/p&gt;
+
+&lt;p&gt;Next steps would be to import old entries from Movable Type (one of the reasons for choosing Jekyll is the handy &lt;a href=&quot;4&quot;&gt;importer&lt;/a&gt;), figure out how to open newly created posts in Vim (note to self: &lt;a href=&quot;5&quot;&gt;must try&lt;/a&gt; &lt;code&gt;system “vim #entry_name&lt;/code&gt;). And maybe at some point, I’d actually get on with some writing too.&lt;/p&gt;
 </content>
  </entry>
  
