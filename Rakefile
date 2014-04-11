@@ -8,7 +8,7 @@ require "rake/minify"
 #########################
 
 deploy_default = "push"
-deploy_branch  = "master"
+deploy_branch  = "gh-pages"
 
 public_dir      = "public"    # compiled site directory
 source_dir      = "."         # source file directory
