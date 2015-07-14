@@ -4,13 +4,26 @@
  <title>Eljestwhere</title>
  <link href="http://eljestwhere.org/atom.xml" rel="self"/>
  <link href="http://eljestwhere.org/"/>
- <updated>2014-04-12T08:45:21+01:00</updated>
+ <updated>2015-07-14T09:01:51+01:00</updated>
  <id>http://eljestwhere.org</id>
  <author>
    <name>Nicklas de León Persson</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Canal adventure</title>
+   <link href="http://eljestwhere.org/2015/07/13/expiration-prompts-writing/"/>
+   <updated>2015-07-13T12:56:00+01:00</updated>
+   <id>http://eljestwhere.org/2015/07/13/expiration-prompts-writing</id>
+   <content type="html">&lt;p&gt;This morning I took a detour to work as I was attempting to get Y&amp;#39;s birthday watch repaired, but I forgot that the repair shop is closed on Mondays. On the way back from Clerkenwell I decided to take the leisurely Regent&amp;#39;s Canal route, as it was raining the path was mostly empty, some old ladies with small dogs, the odd jogger, a bike now and then. &lt;/p&gt;
+
+&lt;p&gt;As I was passing under one of the bridges, thinking about how I really should get a bell, a woman on a bike turned round the corner onto the stretch of path under the bridge, clipped the side of her handlebars on my bike, and proceeded to fall very slowly straight into the canal. &lt;/p&gt;
+
+&lt;p&gt;I pulled the woman and her bicycle out of the water and asked with great concern if everything was ok. Fine, she said. &amp;quot;It&amp;#39;s a London baptism. I have biked this route for 11 years, it was bound to happen sooner or later&amp;quot;. &lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Waking early</title>
@@ -28,9 +41,9 @@
    <link href="http://eljestwhere.org/2014/03/28/freaky-friday/"/>
    <updated>2014-03-28T00:00:00+00:00</updated>
    <id>http://eljestwhere.org/2014/03/28/freaky-friday</id>
-   <content type="html">&lt;p&gt;Transitioning yet again from one platform to another—it is almost like someone collecting typewriters or exquisite pencils instead of actually writing—I’ve now settled, for the time being on a &lt;a href=&quot;1&quot;&gt;Jekyll&lt;/a&gt; site with some &lt;a href=&quot;2a&quot;&gt;Octopress&lt;/a&gt; sprinkles (just the &lt;a href=&quot;2b&quot;&gt;rake tasks&lt;/a&gt;) and, again for the time being, with a &lt;a href=&quot;3&quot;&gt;Hyde&lt;/a&gt; theme.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Transitioning yet again from one platform to another—it is almost like someone collecting typewriters or exquisite pencils instead of actually writing—I’ve now settled, for the time being on a &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; site with some &lt;a href=&quot;http://octopress.org&quot;&gt;Octopress&lt;/a&gt; sprinkles (just the &lt;a href=&quot;https://github.com/imathis/octopress/blob/master/Rakefile&quot;&gt;rake tasks&lt;/a&gt;) and, again for the time being, with a &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;Hyde&lt;/a&gt; theme.&lt;/p&gt;
 
-&lt;p&gt;Next steps would be to import old entries from Movable Type (one of the reasons for choosing Jekyll is the handy &lt;a href=&quot;4&quot;&gt;importer&lt;/a&gt;), figure out how to open newly created posts in Vim (note to self: &lt;a href=&quot;5&quot;&gt;must try&lt;/a&gt; &lt;code&gt;system “vim #entry_name&lt;/code&gt;). And maybe at some point, I’d actually get on with some writing too.&lt;/p&gt;
+&lt;p&gt;Next steps would be to import old entries from Movable Type (one of the reasons for choosing Jekyll is the handy &lt;a href=&quot;http://import.jekyllrb.com/docs/mt/&quot;&gt;importer&lt;/a&gt;), figure out how to open newly created posts in Vim (note to self: &lt;a href=&quot;http://stackoverflow.com/questions/11021456/open-vim-from-a-rakefile&quot;&gt;must try&lt;/a&gt; &lt;code&gt;system “vim #entry_name&lt;/code&gt;). And maybe at some point, I’d actually get on with some writing too.&lt;/p&gt;
 </content>
  </entry>
  
